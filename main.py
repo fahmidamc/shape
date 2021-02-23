@@ -48,6 +48,7 @@ while True:
                 print("choose triangle")
             if ch == 5:
                 print("program exiting...")
+                print("program exiting...")
 
         if choice == 3:
             print("program exiting...")
