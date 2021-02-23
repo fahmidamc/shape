@@ -21,7 +21,7 @@ while True:
             print("-----CIRCLE----")
             r = int(input("Enter circle's radius length: "))
             cir_perimeter = 2 * 3.14 * r
-            print(f"The perimeter of circle is {circ_perimeter}.")
+            print(f"The perimeter of circle is {cir_perimeter}.")
 
         elif ch == 2:
             print("-----SQUARE-------")
